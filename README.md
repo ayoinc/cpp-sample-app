@@ -1,4 +1,6 @@
 Compiling C++ applications with Codefresh
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/8efa1339-e505-4086-87b6-f0c576534512.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/cpp-sample-app?orgId=666444378491)  
 =============
 
 This project is a C++ template project with `cmake`.
